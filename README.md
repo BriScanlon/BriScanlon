@@ -18,7 +18,7 @@ I love creating tools that unlock hidden insights from structured and unstructur
 - Dockerized multi-service backend  
 - Web-based control interface (React + FastAPI)  
 - Includes custom 3D-printed case designs  
-[🔗 View Repo](#)
+[🔗 View Repo](https://github.com/BriScanlon/musicApp)
 
 ---
 
