@@ -38,8 +38,8 @@ I love creating tools that unlock hidden insights from structured and unstructur
 ---
 
 ## 📈 GitHub Stats
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BriScanlon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BriScanlon&layout=compact&theme=radical)
 
 ---
 
