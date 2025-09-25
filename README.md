@@ -52,5 +52,5 @@ I love creating tools that unlock hidden insights from structured and unstructur
 ---
 
 ## 📫 How to Reach Me
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/brian-scanlon-33058a11/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brian-scanlon-33058a11/)
 - 📧 Email: briscanlon@googlemail.com
