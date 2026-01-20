@@ -13,11 +13,14 @@ I love creating tools that unlock hidden insights from structured and unstructur
 
 ## 🚀 Featured Projects
 
-### 🎛️ **Distributed Audio Streaming System (Work-in-Progress)**
-> Raspberry Pi-powered open-source audio system for high-fidelity home streaming.
-- Dockerized multi-service backend  
-- Web-based control interface (React + FastAPI)  
-- Includes custom 3D-printed case designs  
+### 🎛️ **Neural net trained Monopoly AI**
+> Training a Deep Reinforcement Learning agent to master Monopoly strategy, valuation, and negotiation.
+
+Core: Python-based simulation utilizing PyTorch for Deep Q-Learning (DQN).
+
+Features: 176-input State Encoder, "Panic Button" liquidity logic, and defensive trading algorithms.
+
+Interface: Interactive "Digital Twin" dashboard built with Streamlit for real-time decision analysis.
 [🔗 View Repo](https://github.com/BriScanlon/musicApp)
 
 ---
