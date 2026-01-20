@@ -21,7 +21,7 @@ Core: Python-based simulation utilizing PyTorch for Deep Q-Learning (DQN).
 Features: 176-input State Encoder, "Panic Button" liquidity logic, and defensive trading algorithms.
 
 Interface: Interactive "Digital Twin" dashboard built with Streamlit for real-time decision analysis.
-[🔗 View Repo](https://github.com/BriScanlon/musicApp)
+[🔗 View Repo](https://github.com/BriScanlon/monopoly_digital_twin)
 
 ---
 
